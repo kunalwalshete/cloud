@@ -1,0 +1,7 @@
+1) Open Cloud SDK type command "gcloud init"  then choose 1
+
+2)  sign in then it ask for project creation say yes
+
+3) then write a command:   google-cloud-sdk\bin\dev_appserver.py "<Path where .py and .Yaml file is saved>"
+
+4) hit enter then you will get a localhost link

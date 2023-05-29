@@ -1,0 +1,11 @@
+1) Go to "https://developer.salesforce.com/signup"  if new user then sign up if already a user then login
+
+2) click on "Quick Find" search for app manager
+
+3) then click on new lighning app
+
+4) set up the things accourding to you
+
+5) after saving click on app laucher  ( top left conrner )
+
+6) then search for you applicaion and lauch it

@@ -1,0 +1,15 @@
+1) Open GAE launcher
+
+2) then go to:  edit > preferences  and cheak python path pythonw.exe and gappengine path
+
+3) create a folder on pc 
+
+4) now in GAE laucher click on file tab > create new application > 
+								parent directory = Choose a folder which you created on pc
+                                                cheak = rutnime port and admin port
+
+							click on create then you will see some apps are created in folder
+
+
+5) then select a app and click on run button
+then write localhost:8080 on webbrowser to cheak ouput
