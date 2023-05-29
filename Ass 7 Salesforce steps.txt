@@ -1,6 +1,6 @@
 1) Go to "https://developer.salesforce.com/signup"  if new user then sign up if already a user then login
 id = kunal@met.com
-pass = sonu@7666
+pass = sonu@2002
 
 2) click on "Quick Find" search for app manager
 
