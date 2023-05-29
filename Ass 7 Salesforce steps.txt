@@ -11,3 +11,22 @@ pass = sonu@7666
 5) after saving click on app laucher  ( top left conrner )
 
 6) then search for you applicaion and lauch it
+
+
+# for apex class
+1) click on settigns icon
+2) then click on file and new apex class and write the following code in it
+
+public class demo2 {
+    
+    public static void Apexmethod(){
+        system.debug('Hello Wordl');
+    
+    }
+}
+
+3) then click on debug and open execute and write a command
+demo2.Apexmethod();   ( class name. method name();)
+
+then you will see output on user debug
+
